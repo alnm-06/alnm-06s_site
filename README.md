@@ -8,6 +8,7 @@
 
 ## SOBRE MIM / ABOUT ME
 PT/BR - Tenho 18 anos e nasci em Brasília, vivi aqui a maior parte da minha vida, tendo passado um período de 7 anos em Cuiabá MT, apesar disso concluí o meu ensino fundamental e médio em minha terra natal. Além disso, também cursei inglês na Fisk onde recebi o certificado nível B2 de fluência pela Universidade de Michigan por meio da prova Michigan Language Assessment. Por fim, estou cursando Ciência da Computação e estou no 1° semestre do curso atualmente.
+
 ENG - I am 18 years old and was born in Brasília. I have lived here for most of my life, having spent a period of 7 years in Cuiabá, MT. Despite that, I completed my elementary and high school education in my hometown. Additionally, I also studied English at Fisk, where I received a B2 fluency certificate from the University of Michigan through the Michigan Language Assessment exam. Finally, I am currently pursuing a degree in Computer Science and I am in my first semester of the course.
 
 
