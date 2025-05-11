@@ -2,6 +2,6 @@ Title: Alnm-06
 logo: docs/assets/Imagem do WhatsApp de 2025-05-11 à(s) 12.16.58_42970d1e.jpg
 Description: Estudante de ciência da computação
 #show_downloads: true
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme 
